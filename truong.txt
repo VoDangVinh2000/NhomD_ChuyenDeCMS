@@ -1,5 +1,4 @@
 Hello baby kagima
 Chào chào chào
-=======
-Truong say hello
->>>>>>> 203cc44 (commit truong)
+
+Truong say hejkanskdjnaskanjsd
