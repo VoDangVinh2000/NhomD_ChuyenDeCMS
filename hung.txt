@@ -1,1 +1,4 @@
-Truong đã ghi file
+﻿
+hello
+
+
