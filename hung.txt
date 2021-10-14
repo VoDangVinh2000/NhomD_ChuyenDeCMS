@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Trường 
 test
+=======
+Trường part 1
+
+
+>>>>>>> origin/main
